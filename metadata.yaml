@@ -1,0 +1,39 @@
+_repo: De-Wereld-v--r-de-schepping-van-den-mensch_19585
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19585-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Flammarion, Nicolas Camille
+    - Filamaryon, Kamil
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+  editor:
+    agent_name: Goudsmit, Boudewijn Casper
+    alias: Goudsmit, B. C.
+    birthdate: 1849
+    deathdate: 1915
+    gutenberg_agent_id: '8764'
+    url: http://www.gutenberg.org/2009/agents/8764
+description: ''
+gutenberg_issued: '2006-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19585'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Human beings -- Origin'
+- !lcsh 'Paleontology'
+- !lcsh 'Earth (Planet)'
+title: De Wereld vóór de schepping van den mensch
+url: http://www.gutenberg.org/ebooks/19585
